@@ -13,3 +13,7 @@ The experience depending on a user's input like city, month and day. After filte
 
 ### Statistics Computed
 The program prints the following information: Popular times of travel Popular stations and trip Trip duration User info
+
+### Programs and Libraries
+Python 3.6.6 NumPy and pandas
+
